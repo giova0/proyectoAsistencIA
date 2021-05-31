@@ -19,4 +19,6 @@ Los documentos que contiene este repositorio son:
 
 6. HojaAsistencIA.pdf => Es la hoja de asistencIA dende se visualizan los nombres detectados. (Debe ser observado desde hojas de google spreadSheets).
 
+7. FaceRecognition.ipynb => Código principal en Python (Hojas de Google Colab) 
+
 Espero pueda servir de ayuda a nuevos proyectos!.
